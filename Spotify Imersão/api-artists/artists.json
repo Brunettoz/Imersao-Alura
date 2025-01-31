@@ -1,0 +1,184 @@
+{
+    "artists": [
+      {
+        "id": 1,
+        "name": "Foo Fighters",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15"
+      },
+      {
+        "id": 2,
+        "name": "Michael Jackson",
+        "genre": "Pop",
+        "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa"
+      },
+      {
+        "id": 3,
+        "name": "Emicida",
+        "genre": "Hip Hop",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174908b4b4bc90e1518b68b4068"
+      },
+      {
+        "id": 4,
+        "name": "Chitãozinho e Xororó",
+        "genre": "Sertanejo",
+        "urlImg": "https://i.scdn.co/image/ab676161000051744606c59411c57f7b49588be4"
+      },
+      {
+        "id": 5,
+        "name": "Mc Coringa",
+        "genre": "Funk",
+        "urlImg": "https://i.scdn.co/image/ab67616d00001e02fe8f6dd361ad0f12b88c7f56"
+      },
+      {
+        "id": 6,
+        "name": "Arlindo Cruz",
+        "genre": "Samba",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174181873f93056642d7b340839"
+      },
+      {
+        "id": 7,
+        "name": "Harry Styles",
+        "genre": "Pop",
+        "urlImg": "https://i.ebayimg.com/images/g/k3gAAOSwrXhiwgfu/s-l960.webp"
+      },
+      {
+        "id": 8,
+        "name": "Frank Ocean",
+        "genre": "R&B Alternativo",
+        "urlImg": "https://preview.redd.it/czc5v1rlf7ga1.jpg?width=1080&crop=smart&auto=webp&s=0a0b237ec8eb1e9f9cc59f6fc327ea203197e08b"
+      },
+      {
+        "id": 9,
+        "name": "Tyler, The Creator",
+        "genre": "Rap",
+        "urlImg": "https://cdn-images.dzcdn.net/images/artist/06e7d57689a9020080358e0e6c692d65/500x500-000000-80-0-0.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Queen",
+        "genre": "Rock",
+        "urlImg": "https://www.duna.cl/media/2021/03/queen-1.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Ariana Grande",
+        "genre": "Pop",
+        "urlImg": "https://cdn-images.dzcdn.net/images/artist/ed04cfc9f8c7c016277edf011439d0ac/500x500-000000-80-0-0.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Lady Gaga",
+        "genre": "Pop",
+        "urlImg": "https://ligadoamusica.com.br/wp-content/uploads/2025/01/lady-gaga-novo-album-mayhem-1536x1024.jpg"
+      },
+      {
+        "id": 13,
+        "name": "The Beatles",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433"
+      },
+      {
+        "id": 14,
+        "name": "Artic Monkeys",
+        "genre": "Indie Rock",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f"
+      },
+      {
+        "id": 15,
+        "name": "David Bowie",
+        "genre": "Indie",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49"
+      },
+      {
+        "id": 16,
+        "name": "Lana Del Rey",
+        "genre": "Pop",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174b99cacf8acd5378206767261"
+      },
+      {
+        "id": 17,
+        "name": "BTS",
+        "genre": "K-pop",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a"
+      },
+      {
+        "id": 18,
+        "name": "Kanye West",
+        "genre": "Rap",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a"
+      },
+      {
+        "id": 19,
+        "name": "Kyan",
+        "genre": "Rap",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb8cd606185adb9a85e288deaa"
+      },
+      {
+        "id": 20,
+        "name": "Pumapjl",
+        "genre": "Rap",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb7674b7357c361781ccbb942f"
+      },
+      {
+        "id": 21,
+        "name": "Kendrick Lamar",
+        "genre": "Rap",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918"
+      },
+      {
+        "id": 22,
+        "name": "Mu540",
+        "genre": "Rap",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5ebad4dea1b5329c78e71e2f04d"
+      },
+      {
+        "id": 23,
+        "name": "Charlie Brown Jr.",
+        "genre": "Rap",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb67bc48f32d1cc16497865361"
+      },
+      {
+        "id": 24,
+        "name": "Cazuza",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174abc390d0dfc8c9d31f413518"
+      },
+      {
+        "id": 25,
+        "name": "System Of A Down",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb60063d3451ade8f9fab397c2"
+      },
+      {
+        "id": 26,
+        "name": "Guns N' Roses",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c"
+      },
+      {
+        "id": 27,
+        "name": "Mayhem",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5ebe60e1c595b887e90c6065620"
+      },
+      {
+        "id": 28,
+        "name": "Matuê",
+        "genre": "Rap",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb654dc6b69f86aeb73527fc07"
+      },
+      {
+        "id": 29,
+        "name": "Veigh",
+        "genre": "Rap",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5ebe32110a6a91105938bb4e026"
+      },
+      {
+        "id": 30,
+        "name": "Mamonas Assassinas",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174b9ed58c9c440f67891e6a3a9"
+      }
+    ]
+  }
